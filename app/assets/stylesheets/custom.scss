@@ -179,24 +179,36 @@ h1{
 }
 .list {
   position: relative;
-  background: #ffffff;
+  background: #e2e4e6;
   padding: 10px;
   margin-left: 20px;
   min-width: 250px;
   &:last-child {
     margin-right: 20px;
-}
   }
+}      
 .list_header {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  &_title {
+    font-size: 20px;
+    margin: 0;
+  }    
+}        
+.fa-pen, .fa-trash {
+  font-size: 18px;
+  color: #8c8c8c;
 }
-.list_title {
-  font-size: 20px;
-  margin: 0;
+
+// edit_page(list)
+.listeditPage {
+  .listForm {
+    max-width: 500px;
+    margin: 100px auto 0;
+  }
 }
-      
+
     
   
