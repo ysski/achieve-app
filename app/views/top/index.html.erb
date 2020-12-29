@@ -13,10 +13,9 @@
         </div>
         <div class="cardWrapper">
           <% list.cards.each do |card| %>
-            <%= link_to list_cards_path(list, card), class:"cardDetail_link" do %>
+            <%= link_to list_card_path(list, card), class:"cardDetail_link" do %>
               <div class="card">
-                <h3 class="card_title"><%= card.title %></h3>
-                
+                <h3 class="card_title"><%= card.title %></h3>              
               </div>
             <% end %>
           <% end %>
