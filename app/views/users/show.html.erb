@@ -1,3 +1,4 @@
+<p class="name_mypage"><b><%= @name%></b>&ensp;さんのリスト</p>
 <div class="topPage">
   <div class="listWrapper">
     <% @lists.each do |list| %>
@@ -15,7 +16,10 @@
           <% list.cards.each do |card| %>
             <%= link_to list_card_path(list, card), class:"cardDetail_link" do %>
               <div class="card">
-                <h3 class="card_title"><%= card.title %></h3>              
+                <h3 class="card_title"><%= card.title %></h3>
+                <% if card.memo.size > 0 %>
+                  <div class="card_detail is-exist"></div>
+                <% end %>
               </div>
             <% end %>
           <% end %>
