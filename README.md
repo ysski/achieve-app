@@ -44,3 +44,6 @@
 ### Association
 
 * belongs_to :list
+
+
+
