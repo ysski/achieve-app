@@ -51,8 +51,10 @@ body {
     }
   }
 }
-    
-  
+.nav-link {
+  color: #000000;
+  padding-left: 30px;
+}     
 
 // button
 .submitBtn {
@@ -293,7 +295,7 @@ h1{
   }
 }
 .name_mypage {
-  margin: 10px 20px;
+  margin: 10px 30px;
   font-size: 16px;
 }
 
