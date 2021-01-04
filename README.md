@@ -40,4 +40,3 @@
 
 * belongs_to :list
 
-https://user-images.githubusercontent.com/72590314/103535750-a13b8d80-4ed4-11eb-9bb6-6be617c28133.mp4
