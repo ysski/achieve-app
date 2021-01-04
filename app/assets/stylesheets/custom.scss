@@ -1,6 +1,6 @@
 body {
   overflow: visible;
-  background-color:#f2f2f2f2;
+  background-color:#eeeeee;
 }
 .notice,
 .alert {
@@ -9,7 +9,7 @@ body {
 
 // header
 .header {
-  background: #333333;
+  background: #000000;
   padding: 10px;
 } 
 .nav,
@@ -58,7 +58,7 @@ body {
 
 // button
 .submitBtn {
-  background: #333333;
+  background: #000000;
   color: #fff;
   width: 200px;
   margin-top: 20px;
@@ -96,7 +96,7 @@ body {
   }
 }
 .submitBtn {
-  background: #333333;
+  background: #000000;
   color: #fff;
   width: 200px;
   margin-top: 20px;
@@ -116,7 +116,7 @@ body {
 // devise_shared_links
 .acountPage_link {
   & > a {
-    color: #333333;
+    color: #000000;
   }
 }
 
@@ -145,7 +145,7 @@ h1{
   padding: 12px;
   width: 200px;
   border-radius: 21px;
-  background: #333333;
+  background: #000000;
   color: #fff;
   text-align: center;
   border: none;
@@ -170,7 +170,7 @@ h1{
 .topPage {
   min-height: 93vh;
   padding-top: 30px;
-  background: #d4d4d4;
+  background: #eeeeee;
   overflow-x: scroll;
   .listWrapper {
     display: flex;
@@ -179,7 +179,7 @@ h1{
     flex-wrap: wrap;
     .list {
       position: relative;
-      background: #333333;;
+      background: #000000;;
       padding: 10px;
       margin-left: 28px;
       margin-bottom: 30px;
@@ -213,7 +213,7 @@ h1{
         max-height: 76vh;
         .cardDetail_link {
           text-decoration: none;
-          color: #333333;;
+          color: #000000;;
         }
         .card {
           margin-bottom: 10px;
@@ -276,7 +276,7 @@ h1{
         &.edit_btn {
           max-width: 200px;
           margin: 0 auto;
-          background: #333333;
+          background: #000000;
           padding: 10px;
           border-radius: 90px;
           color: #fff;
