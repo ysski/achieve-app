@@ -1,4 +1,5 @@
-# README
+# 概要
+・自分の作成したオリジナルのリストを投稿、共有が出来るポートフォリオです。
 
 <img width="1440" alt="22a1ad8cf5323575392656eae4baed93" src="https://user-images.githubusercontent.com/72590314/103540584-49edeb00-4edd-11eb-8d91-f4db803045f0.png">
 
