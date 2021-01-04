@@ -12,6 +12,8 @@
 
 # 画面紹介
 
+<img width="1440" alt="22a1ad8cf5323575392656eae4baed93" src="https://user-images.githubusercontent.com/72590314/103551720-1cf60400-4eee-11eb-9b05-f2c2c0e17449.png">
+
 
 # 機能 • 技術
 
