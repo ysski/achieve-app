@@ -16,7 +16,7 @@ class CardsController < ApplicationController
   end
 
   def show
-   
+    @lists = List.where(user: current_user)
   end
 
   def edit
