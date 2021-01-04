@@ -1,5 +1,4 @@
 # テーブル設計
-<img width="1440" alt="8844c3ce519473cdc4798e8c5da84fe6" src="https://user-images.githubusercontent.com/72590314/103539354-3d689300-4edb-11eb-83e7-144a821d3d85.png">
 
 ## users テーブル
 
