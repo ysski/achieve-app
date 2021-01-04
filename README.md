@@ -40,3 +40,6 @@
 
 * belongs_to :list
 
+#　アプリの動画
+![result]（https://user-images.githubusercontent.com/72590314/103538689-0b0a6600-4eda-11eb-880c-9e8ed80e3156.mp4）
+
